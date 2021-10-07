@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632022019 source:c:\c++lesson1\project.1\main.cpp
+	<iostream>
+
+1632022019 source:c:\c++lesson1\c-lesson1\project.1\main.cpp
+	<iostream>
+
